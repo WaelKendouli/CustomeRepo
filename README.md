@@ -5,3 +5,4 @@ git
 ## Features
 
 - Add two numbers.
+- This project is part of my Git and GitHub practice.
